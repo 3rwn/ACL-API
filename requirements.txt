@@ -1,0 +1,6 @@
+psycopg2~=2.9.3
+fastapi~=0.75.2
+pydantic~=1.9.0
+uvicorn~=0.17.6
+starlette~=0.17.1
+passlib~=1.7.4
